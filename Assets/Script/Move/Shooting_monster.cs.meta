@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 874123c0989386a489d858da5d12791a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Coin: {fileID: 5476948105351929027, guid: 834a6a91c99308445919b95cd658f009, type: 3}
+  - Bullet: {fileID: 2445713277431676681, guid: 0dd151d39ebb2a14f8d7d8c2408094a0,
+      type: 3}
+  - target: {instanceID: 0}
+  - wayPoint1: {instanceID: 0}
+  - wayPoint2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
