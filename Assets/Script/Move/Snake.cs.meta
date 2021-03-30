@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e95bbd11f880c6540ab6b4376bddd972
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Coin: {instanceID: 0}
+  - target: {instanceID: 0}
+  - wayPoint1: {instanceID: 0}
+  - wayPoint2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
