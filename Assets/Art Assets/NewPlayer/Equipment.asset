@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Equipment
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Hair
+    m_Hash: 1019596327
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: 3055358830863330397, guid: 474f30ab2e9cc4551b860f7c52c7d0aa,
+        type: 3}
+    - m_Name: lowLevel
+      m_Hash: 347504610
+      m_Sprite: {fileID: 6680036769204296746, guid: 88cd76631630f412ebd031e93c3f0529,
+        type: 3}
+  - m_Name: LeftArm
+    m_Hash: -343733542
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: -7714649598018622422, guid: 474f30ab2e9cc4551b860f7c52c7d0aa,
+        type: 3}
+    - m_Name: lowLevel
+      m_Hash: 347504610
+      m_Sprite: {fileID: 2595236776739337950, guid: 88cd76631630f412ebd031e93c3f0529,
+        type: 3}
+  - m_Name: LeftHand
+    m_Hash: -1233783956
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: -6541966529135514749, guid: 474f30ab2e9cc4551b860f7c52c7d0aa,
+        type: 3}
+    - m_Name: lowLevel
+      m_Hash: 347504610
+      m_Sprite: {fileID: 1605262784873784682, guid: 88cd76631630f412ebd031e93c3f0529,
+        type: 3}
+  - m_Name: LeftLeg
+    m_Hash: 101577729
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: -436140986770983710, guid: 474f30ab2e9cc4551b860f7c52c7d0aa,
+        type: 3}
+    - m_Name: lowLevel
+      m_Hash: 347504610
+      m_Sprite: {fileID: -1937857126308859896, guid: 88cd76631630f412ebd031e93c3f0529,
+        type: 3}
+  - m_Name: LeftFoot
+    m_Hash: 1486391408
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: 7150331390658440808, guid: 474f30ab2e9cc4551b860f7c52c7d0aa,
+        type: 3}
+    - m_Name: lowLevel
+      m_Hash: 347504610
+      m_Sprite: {fileID: -4684403879355262324, guid: 88cd76631630f412ebd031e93c3f0529,
+        type: 3}
+  - m_Name: Body
+    m_Hash: 2073732236
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: 2865261088501881079, guid: 474f30ab2e9cc4551b860f7c52c7d0aa,
+        type: 3}
+    - m_Name: lowLevel
+      m_Hash: 347504610
+      m_Sprite: {fileID: 3471531971313094529, guid: 88cd76631630f412ebd031e93c3f0529,
+        type: 3}
+  - m_Name: RightArm
+    m_Hash: 1806956327
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: -5859564835654270742, guid: 474f30ab2e9cc4551b860f7c52c7d0aa,
+        type: 3}
+    - m_Name: lowLevel
+      m_Hash: 347504610
+      m_Sprite: {fileID: 3184876365743621666, guid: 88cd76631630f412ebd031e93c3f0529,
+        type: 3}
+  - m_Name: RightHand
+    m_Hash: 1979272496
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: -2105282567764102486, guid: 474f30ab2e9cc4551b860f7c52c7d0aa,
+        type: 3}
+    - m_Name: lowLevel
+      m_Hash: 347504610
+      m_Sprite: {fileID: -6037202282978340932, guid: 88cd76631630f412ebd031e93c3f0529,
+        type: 3}
+  - m_Name: RightLeg
+    m_Hash: -2042820100
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: 579139784677742537, guid: 474f30ab2e9cc4551b860f7c52c7d0aa,
+        type: 3}
+    - m_Name: lowLevel
+      m_Hash: 347504610
+      m_Sprite: {fileID: 6213869844884824492, guid: 88cd76631630f412ebd031e93c3f0529,
+        type: 3}
+  - m_Name: RightFoot
+    m_Hash: -1693174228
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: -1000948929309290136, guid: 474f30ab2e9cc4551b860f7c52c7d0aa,
+        type: 3}
+    - m_Name: lowLevel
+      m_Hash: 347504610
+      m_Sprite: {fileID: 4735909688436266953, guid: 88cd76631630f412ebd031e93c3f0529,
+        type: 3}
+  - m_Name: LeftItem
+    m_Hash: -1911778051
+    m_CategoryList:
+    - m_Name: woodSword
+      m_Hash: 144533235
+      m_Sprite: {fileID: -5723425775001277509, guid: 474f30ab2e9cc4551b860f7c52c7d0aa,
+        type: 3}
+    - m_Name: ironSword
+      m_Hash: 716896396
+      m_Sprite: {fileID: 8207047700388213239, guid: 88cd76631630f412ebd031e93c3f0529,
+        type: 3}
+    - m_Name: woodArrow
+      m_Hash: 1246711746
+      m_Sprite: {fileID: 4887446101760200652, guid: 5a471db80c65249a8ae73b76125bfbc1,
+        type: 3}
+    - m_Name: none
+      m_Hash: 2140143823
+      m_Sprite: {fileID: 3849951415188408805, guid: b49429b0abf99426289b092002a04ad4,
+        type: 3}
+  - m_Name: RightItem
+    m_Hash: 1300245153
+    m_CategoryList:
+    - m_Name: woodShield
+      m_Hash: -1442179970
+      m_Sprite: {fileID: 8204203530797702997, guid: 474f30ab2e9cc4551b860f7c52c7d0aa,
+        type: 3}
+    - m_Name: woodBow
+      m_Hash: -1120024891
+      m_Sprite: {fileID: -5710044144092234739, guid: 5a471db80c65249a8ae73b76125bfbc1,
+        type: 3}
+    - m_Name: ironShield
+      m_Hash: 1787977549
+      m_Sprite: {fileID: -2359389860847016941, guid: 88cd76631630f412ebd031e93c3f0529,
+        type: 3}
+    - m_Name: none
+      m_Hash: 2140143823
+      m_Sprite: {fileID: 366807895114968035, guid: b49429b0abf99426289b092002a04ad4,
+        type: 3}
