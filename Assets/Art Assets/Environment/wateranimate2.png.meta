@@ -1,0 +1,2975 @@
+fileFormatVersion: 2
+guid: 88c8dc89764ca2c4086381ac375a84d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4660326871412307232
+    second: wateranimate2_0
+  - first:
+      213: -5028735085927674757
+    second: wateranimate2_1
+  - first:
+      213: 4627263737319935990
+    second: wateranimate2_2
+  - first:
+      213: -4433134094065279978
+    second: wateranimate2_3
+  - first:
+      213: 3957897305364559283
+    second: wateranimate2_4
+  - first:
+      213: 4945445440344672560
+    second: wateranimate2_5
+  - first:
+      213: -8486578234288435961
+    second: wateranimate2_6
+  - first:
+      213: -8169212467716264608
+    second: wateranimate2_7
+  - first:
+      213: 2729897700197760712
+    second: wateranimate2_8
+  - first:
+      213: 4811979939060736480
+    second: wateranimate2_9
+  - first:
+      213: -8874608426669827669
+    second: wateranimate2_10
+  - first:
+      213: -8845748944685026624
+    second: wateranimate2_11
+  - first:
+      213: 5283492042984181972
+    second: wateranimate2_12
+  - first:
+      213: 2514113059489646215
+    second: wateranimate2_13
+  - first:
+      213: 9000964505904880571
+    second: wateranimate2_14
+  - first:
+      213: 3668569868804341730
+    second: wateranimate2_15
+  - first:
+      213: -5996688958258520226
+    second: wateranimate2_16
+  - first:
+      213: -8348273880650663820
+    second: wateranimate2_17
+  - first:
+      213: 1563545944588346222
+    second: wateranimate2_18
+  - first:
+      213: 2173027826943597178
+    second: wateranimate2_19
+  - first:
+      213: 7401822933940669848
+    second: wateranimate2_20
+  - first:
+      213: 7501218615165919225
+    second: wateranimate2_21
+  - first:
+      213: -1051522782847444663
+    second: wateranimate2_22
+  - first:
+      213: -6603047146913401124
+    second: wateranimate2_23
+  - first:
+      213: 2815307693761100806
+    second: wateranimate2_24
+  - first:
+      213: 4713107106249933003
+    second: wateranimate2_25
+  - first:
+      213: -1452410340976857339
+    second: wateranimate2_26
+  - first:
+      213: 4138910450394126786
+    second: wateranimate2_27
+  - first:
+      213: -4222447560062044886
+    second: wateranimate2_28
+  - first:
+      213: -3921526997308617951
+    second: wateranimate2_29
+  - first:
+      213: -7315064057127202495
+    second: wateranimate2_30
+  - first:
+      213: 5326036746889430404
+    second: wateranimate2_31
+  - first:
+      213: -1369719987863185557
+    second: wateranimate2_32
+  - first:
+      213: -3977487093653328367
+    second: wateranimate2_33
+  - first:
+      213: 9152196674233043100
+    second: wateranimate2_34
+  - first:
+      213: 8816415678226897873
+    second: wateranimate2_35
+  - first:
+      213: 1470517323007524533
+    second: wateranimate2_36
+  - first:
+      213: -8275073079550710289
+    second: wateranimate2_37
+  - first:
+      213: 8561631764888073255
+    second: wateranimate2_38
+  - first:
+      213: 866798115175971609
+    second: wateranimate2_39
+  - first:
+      213: -8794690964623450424
+    second: wateranimate2_40
+  - first:
+      213: 6922630465120936739
+    second: wateranimate2_41
+  - first:
+      213: -140780192179490709
+    second: wateranimate2_42
+  - first:
+      213: -3833591643062197022
+    second: wateranimate2_43
+  - first:
+      213: 497345501911150890
+    second: wateranimate2_44
+  - first:
+      213: 6958238816103163191
+    second: wateranimate2_45
+  - first:
+      213: -7936645673721488684
+    second: wateranimate2_46
+  - first:
+      213: 543571563241445100
+    second: wateranimate2_47
+  - first:
+      213: -4189228648052923942
+    second: wateranimate2_48
+  - first:
+      213: 4616769155624521856
+    second: wateranimate2_49
+  - first:
+      213: 1316920920326268158
+    second: wateranimate2_50
+  - first:
+      213: -7127579244616758458
+    second: wateranimate2_51
+  - first:
+      213: 5525448323981063876
+    second: wateranimate2_52
+  - first:
+      213: 1498117295392268352
+    second: wateranimate2_53
+  - first:
+      213: 7128106197386517987
+    second: wateranimate2_0
+  - first:
+      213: -6853724540384429188
+    second: wateranimate2_1
+  - first:
+      213: 7427421834440592827
+    second: wateranimate2_2
+  - first:
+      213: -9172425730577101117
+    second: wateranimate2_3
+  - first:
+      213: -2204021179928398176
+    second: wateranimate2_4
+  - first:
+      213: -54715114029836550
+    second: wateranimate2_5
+  - first:
+      213: 8090102817650081492
+    second: wateranimate2_6
+  - first:
+      213: -2491742454675617002
+    second: wateranimate2_7
+  - first:
+      213: -8301003408087569891
+    second: wateranimate2_8
+  - first:
+      213: 1291508833602411590
+    second: wateranimate2_9
+  - first:
+      213: 5666932457424991092
+    second: wateranimate2_10
+  - first:
+      213: 4234957270349259139
+    second: wateranimate2_11
+  - first:
+      213: 5028136612482649484
+    second: wateranimate2_12
+  - first:
+      213: -1162163778793114628
+    second: wateranimate2_13
+  - first:
+      213: 1581994587934003858
+    second: wateranimate2_14
+  - first:
+      213: 2420922139371830168
+    second: wateranimate2_15
+  - first:
+      213: -2343773110987459183
+    second: wateranimate2_16
+  - first:
+      213: 4343972828035159526
+    second: wateranimate2_17
+  - first:
+      213: 3450655541793295071
+    second: wateranimate2_18
+  - first:
+      213: -1539414912863401146
+    second: wateranimate2_19
+  - first:
+      213: -9126397290823525999
+    second: wateranimate2_20
+  - first:
+      213: 4047041006636007508
+    second: wateranimate2_21
+  - first:
+      213: -119488567719252343
+    second: wateranimate2_22
+  - first:
+      213: 311520932663700292
+    second: wateranimate2_23
+  - first:
+      213: -3213955014836666168
+    second: wateranimate2_24
+  - first:
+      213: -151637666378216660
+    second: wateranimate2_25
+  - first:
+      213: -6194527564716381837
+    second: wateranimate2_26
+  - first:
+      213: 1021212981761933634
+    second: wateranimate2_27
+  - first:
+      213: 8262762181711009471
+    second: wateranimate2_28
+  - first:
+      213: -6654297825982115325
+    second: wateranimate2_29
+  - first:
+      213: -1118581424362200953
+    second: wateranimate2_30
+  - first:
+      213: -665091895166308808
+    second: wateranimate2_31
+  - first:
+      213: 8465385114338732891
+    second: wateranimate2_32
+  - first:
+      213: 8183216091377607648
+    second: wateranimate2_33
+  - first:
+      213: 8965593119952551428
+    second: wateranimate2_34
+  - first:
+      213: -8240367743188610762
+    second: wateranimate2_35
+  - first:
+      213: 5480342240761587565
+    second: wateranimate2_36
+  - first:
+      213: -8309812020700801481
+    second: wateranimate2_37
+  - first:
+      213: 2722694785058432024
+    second: wateranimate2_38
+  - first:
+      213: -4049348920837213472
+    second: wateranimate2_39
+  - first:
+      213: 6379366543068826114
+    second: wateranimate2_40
+  - first:
+      213: 6856533611271422324
+    second: wateranimate2_41
+  - first:
+      213: 5004687199909157008
+    second: wateranimate2_42
+  - first:
+      213: -4505268126689129985
+    second: wateranimate2_43
+  - first:
+      213: -2817002954189795851
+    second: wateranimate2_44
+  - first:
+      213: 2308815884970570609
+    second: wateranimate2_45
+  - first:
+      213: 2225304059662594162
+    second: wateranimate2_46
+  - first:
+      213: -8144310089470059016
+    second: wateranimate2_47
+  - first:
+      213: -6791017589159637699
+    second: wateranimate2_48
+  - first:
+      213: -980015128825418048
+    second: wateranimate2_49
+  - first:
+      213: 7658610126744745539
+    second: wateranimate2_50
+  - first:
+      213: 1297389700417450757
+    second: wateranimate2_51
+  - first:
+      213: -4365596256757014357
+    second: wateranimate2_52
+  - first:
+      213: 8135612803786260770
+    second: wateranimate2_53
+  - first:
+      213: 3800036670899317123
+    second: wateranimate2_54
+  - first:
+      213: 2047910813051554559
+    second: wateranimate2_55
+  - first:
+      213: 6306152241282974297
+    second: wateranimate2_56
+  - first:
+      213: -3767598387686884258
+    second: wateranimate2_57
+  - first:
+      213: -700318358275216944
+    second: wateranimate2_58
+  - first:
+      213: 7579509575258079198
+    second: wateranimate2_59
+  - first:
+      213: -5439796985846673666
+    second: wateranimate2_60
+  - first:
+      213: 4242796874216978210
+    second: wateranimate2_61
+  - first:
+      213: 7224099328903023108
+    second: wateranimate2_62
+  - first:
+      213: 7445933853135536024
+    second: wateranimate2_63
+  - first:
+      213: -4701861431172363377
+    second: wateranimate2_64
+  - first:
+      213: -6637091373760460762
+    second: wateranimate2_65
+  - first:
+      213: -7964743935679899983
+    second: wateranimate2_66
+  - first:
+      213: -1483233171201756250
+    second: wateranimate2_67
+  - first:
+      213: -5337972563473850261
+    second: wateranimate2_68
+  - first:
+      213: -859222011137819169
+    second: wateranimate2_69
+  - first:
+      213: -3843807825113646471
+    second: wateranimate2_70
+  - first:
+      213: 7495811476800214008
+    second: wateranimate2_71
+  - first:
+      213: -8657587998966831542
+    second: wateranimate2_72
+  - first:
+      213: 8772495499685365479
+    second: wateranimate2_73
+  - first:
+      213: 1464960368145102240
+    second: wateranimate2_74
+  - first:
+      213: 5997128706222257312
+    second: wateranimate2_75
+  - first:
+      213: -3084475630633298865
+    second: wateranimate2_76
+  - first:
+      213: 3501588485494410477
+    second: wateranimate2_77
+  - first:
+      213: -3655954413323590487
+    second: wateranimate2_78
+  - first:
+      213: 6819941811109976706
+    second: wateranimate2_79
+  - first:
+      213: -5326266520709931887
+    second: wateranimate2_80
+  - first:
+      213: 6221380516385366646
+    second: wateranimate2_81
+  - first:
+      213: 4560976535630647459
+    second: wateranimate2_82
+  - first:
+      213: -7470031407812372588
+    second: wateranimate2_83
+  - first:
+      213: -3988241574306221027
+    second: wateranimate2_84
+  - first:
+      213: -4750654071672884221
+    second: wateranimate2_85
+  - first:
+      213: 1798077704191449051
+    second: wateranimate2_86
+  - first:
+      213: 7819292926704102494
+    second: wateranimate2_87
+  - first:
+      213: 2279574104086477184
+    second: wateranimate2_88
+  - first:
+      213: 6182245499038076214
+    second: wateranimate2_89
+  - first:
+      213: -8925064480041513004
+    second: wateranimate2_90
+  - first:
+      213: 3733647342578621009
+    second: wateranimate2_91
+  - first:
+      213: 7881907052713457627
+    second: wateranimate2_92
+  - first:
+      213: -1999761875797764009
+    second: wateranimate2_93
+  - first:
+      213: -3814296808135079022
+    second: wateranimate2_94
+  - first:
+      213: -4218993389826001477
+    second: wateranimate2_95
+  - first:
+      213: 1978508839418093206
+    second: wateranimate2_96
+  - first:
+      213: 2143329955083258562
+    second: wateranimate2_97
+  - first:
+      213: -1200077813214720078
+    second: wateranimate2_98
+  - first:
+      213: 8790428283447293450
+    second: wateranimate2_99
+  - first:
+      213: -5512704854902452163
+    second: wateranimate2_100
+  - first:
+      213: -4608804137892958014
+    second: wateranimate2_101
+  - first:
+      213: 1625387382280826458
+    second: wateranimate2_102
+  - first:
+      213: -1212462023618881964
+    second: wateranimate2_103
+  - first:
+      213: 402147984978927682
+    second: wateranimate2_104
+  - first:
+      213: -6026757103970219111
+    second: wateranimate2_105
+  - first:
+      213: -6417376176599109302
+    second: wateranimate2_106
+  - first:
+      213: 483684510127057571
+    second: wateranimate2_107
+  - first:
+      213: 4992727945974537206
+    second: wateranimate2_108
+  - first:
+      213: 3800148458818015959
+    second: wateranimate2_109
+  - first:
+      213: -6651599424740148888
+    second: wateranimate2_110
+  - first:
+      213: -8198481305814309886
+    second: wateranimate2_111
+  - first:
+      213: 1949731907706104898
+    second: wateranimate2_112
+  - first:
+      213: -8910544789669499257
+    second: wateranimate2_113
+  - first:
+      213: 574468639712333120
+    second: wateranimate2_114
+  - first:
+      213: 8538727464469947617
+    second: wateranimate2_115
+  - first:
+      213: 2997573080144400927
+    second: wateranimate2_116
+  - first:
+      213: 3777419412287298979
+    second: wateranimate2_117
+  - first:
+      213: 1356054319389878091
+    second: wateranimate2_118
+  - first:
+      213: -3932403737109622949
+    second: wateranimate2_119
+  - first:
+      213: 6489834420760041539
+    second: wateranimate2_120
+  - first:
+      213: -1708828094284968040
+    second: wateranimate2_121
+  - first:
+      213: -9066339251797705185
+    second: wateranimate2_122
+  - first:
+      213: -5475429502816133729
+    second: wateranimate2_123
+  - first:
+      213: 3143923662210000790
+    second: wateranimate2_124
+  - first:
+      213: 8037873828642363503
+    second: wateranimate2_125
+  - first:
+      213: -6489581753262924009
+    second: wateranimate2_126
+  - first:
+      213: 694855500770010585
+    second: wateranimate2_127
+  - first:
+      213: -1844629810431124503
+    second: wateranimate2_128
+  - first:
+      213: 6473742636648498104
+    second: wateranimate2_129
+  - first:
+      213: -5980808977164120736
+    second: wateranimate2_130
+  - first:
+      213: 5587887621711892562
+    second: wateranimate2_131
+  - first:
+      213: 6994388743516105383
+    second: wateranimate2_132
+  - first:
+      213: 330373726717389542
+    second: wateranimate2_133
+  - first:
+      213: 9061098218121864160
+    second: wateranimate2_134
+  - first:
+      213: 7840657925372810862
+    second: wateranimate2_135
+  - first:
+      213: 3792697220392901301
+    second: wateranimate2_136
+  - first:
+      213: 4569970152679144179
+    second: wateranimate2_137
+  - first:
+      213: 7097273265253238946
+    second: wateranimate2_138
+  - first:
+      213: -9217514684015894048
+    second: wateranimate2_139
+  - first:
+      213: -3226391152717407723
+    second: wateranimate2_140
+  - first:
+      213: -4208367092731348927
+    second: wateranimate2_141
+  - first:
+      213: 5988724583631030232
+    second: wateranimate2_142
+  - first:
+      213: -6371502720994168644
+    second: wateranimate2_143
+  - first:
+      213: 220565716416524988
+    second: wateranimate2_144
+  - first:
+      213: 5516698523863815057
+    second: wateranimate2_145
+  - first:
+      213: 4388085522706810392
+    second: wateranimate2_146
+  - first:
+      213: -3227658302993234278
+    second: wateranimate2_147
+  - first:
+      213: 8458263635905988525
+    second: wateranimate2_148
+  - first:
+      213: -7871855039099298981
+    second: wateranimate2_149
+  - first:
+      213: 4185018876532939468
+    second: wateranimate2_150
+  - first:
+      213: -3497356678216961589
+    second: wateranimate2_151
+  - first:
+      213: 248280907463811659
+    second: wateranimate2_152
+  - first:
+      213: -813854096712758317
+    second: wateranimate2_153
+  - first:
+      213: 1492445574151814932
+    second: wateranimate2_154
+  - first:
+      213: 3862117115785173034
+    second: wateranimate2_155
+  - first:
+      213: 3292964389795337949
+    second: wateranimate2_156
+  - first:
+      213: 217012898610569823
+    second: wateranimate2_157
+  - first:
+      213: -926066154255132700
+    second: wateranimate2_158
+  - first:
+      213: 6507545923676966421
+    second: wateranimate2_159
+  - first:
+      213: 6735008830789610983
+    second: wateranimate2_160
+  - first:
+      213: -418725627186139904
+    second: wateranimate2_161
+  - first:
+      213: 6567912150975957556
+    second: wateranimate2_162
+  - first:
+      213: 262318573582457995
+    second: wateranimate2_163
+  - first:
+      213: 3901804254900988584
+    second: wateranimate2_164
+  - first:
+      213: 7255849759973476550
+    second: wateranimate2_165
+  - first:
+      213: 8961506312421764978
+    second: wateranimate2_166
+  - first:
+      213: 1326155065491657814
+    second: wateranimate2_167
+  - first:
+      213: 4058573700471781810
+    second: wateranimate2_168
+  - first:
+      213: -4379048115321492626
+    second: wateranimate2_169
+  - first:
+      213: 3667163728462719451
+    second: wateranimate2_170
+  - first:
+      213: 7810724819332788333
+    second: wateranimate2_171
+  - first:
+      213: 2521078466597668920
+    second: wateranimate2_172
+  - first:
+      213: 1303610372124071684
+    second: wateranimate2_173
+  - first:
+      213: -7677718641906293992
+    second: wateranimate2_174
+  - first:
+      213: 2607960634900250419
+    second: wateranimate2_175
+  - first:
+      213: 2238798514005900079
+    second: wateranimate2_176
+  - first:
+      213: -2140231943462337
+    second: wateranimate2_177
+  - first:
+      213: -802669003845327637
+    second: wateranimate2_178
+  - first:
+      213: -3157901631241162318
+    second: wateranimate2_179
+  - first:
+      213: -5581111483498913248
+    second: wateranimate2_180
+  - first:
+      213: -4705683838750980801
+    second: wateranimate2_181
+  - first:
+      213: 8901076289440687313
+    second: wateranimate2_182
+  - first:
+      213: 6659845254460371040
+    second: wateranimate2_183
+  - first:
+      213: -3413709013891062269
+    second: wateranimate2_184
+  - first:
+      213: 1787279465278976772
+    second: wateranimate2_185
+  - first:
+      213: 8903940011238979325
+    second: wateranimate2_186
+  - first:
+      213: -8497128490564136626
+    second: wateranimate2_187
+  - first:
+      213: -6333954502069141220
+    second: wateranimate2_188
+  - first:
+      213: -3026129449965554314
+    second: wateranimate2_54
+  - first:
+      213: -7072352220374932830
+    second: wateranimate2_55
+  - first:
+      213: -4449286578344296867
+    second: wateranimate2_56
+  - first:
+      213: 3007535328021834874
+    second: wateranimate2_57
+  - first:
+      213: -8615404196737798217
+    second: wateranimate2_58
+  - first:
+      213: 3606275026170697326
+    second: wateranimate2_59
+  - first:
+      213: 8618061896276931843
+    second: wateranimate2_60
+  - first:
+      213: 5558259732230299795
+    second: wateranimate2_61
+  - first:
+      213: 2876998627565253949
+    second: wateranimate2_62
+  - first:
+      213: -6673604758084992061
+    second: wateranimate2_63
+  - first:
+      213: -2531539048230692321
+    second: wateranimate2_64
+  - first:
+      213: -5846858864108036005
+    second: wateranimate2_65
+  - first:
+      213: -4304556701565753474
+    second: wateranimate2_66
+  - first:
+      213: 6260792249151603668
+    second: wateranimate2_67
+  - first:
+      213: -7124488455981971132
+    second: wateranimate2_68
+  - first:
+      213: -1817825798470314302
+    second: wateranimate2_69
+  - first:
+      213: 1847579272775153116
+    second: wateranimate2_70
+  - first:
+      213: 7086888166009721501
+    second: wateranimate2_71
+  - first:
+      213: -7188363156459510611
+    second: wateranimate2_72
+  - first:
+      213: 3788271400840591697
+    second: wateranimate2_73
+  - first:
+      213: 959747588117278770
+    second: wateranimate2_74
+  - first:
+      213: 2973081626530242732
+    second: wateranimate2_75
+  - first:
+      213: 846654923371422040
+    second: wateranimate2_76
+  - first:
+      213: -5540619780989100745
+    second: wateranimate2_77
+  - first:
+      213: 710252676437449572
+    second: wateranimate2_78
+  - first:
+      213: 2417323773674780391
+    second: wateranimate2_79
+  - first:
+      213: -6633827571885928472
+    second: wateranimate2_80
+  - first:
+      213: -9193206459604083293
+    second: wateranimate2_81
+  - first:
+      213: 8704541550116778978
+    second: wateranimate2_82
+  - first:
+      213: -8301637563686079136
+    second: wateranimate2_83
+  - first:
+      213: 1952040150027795714
+    second: wateranimate2_84
+  - first:
+      213: -5838633219895699766
+    second: wateranimate2_85
+  - first:
+      213: 231725002216699778
+    second: wateranimate2_86
+  - first:
+      213: 5066768233267990223
+    second: wateranimate2_87
+  - first:
+      213: 4073516961568911065
+    second: wateranimate2_88
+  - first:
+      213: -6149075221007818309
+    second: wateranimate2_89
+  - first:
+      213: 4384170081223451027
+    second: wateranimate2_90
+  - first:
+      213: 6925677532777284726
+    second: wateranimate2_91
+  - first:
+      213: 740582240741361344
+    second: wateranimate2_92
+  - first:
+      213: 6576990540555004469
+    second: wateranimate2_93
+  - first:
+      213: -2619649234970370778
+    second: wateranimate2_94
+  - first:
+      213: 3074159799814637824
+    second: wateranimate2_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wateranimate2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eddb78f1de1ce260800000000000000
+      internalID: 7128106197386517987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3206d7dda2e0a0800000000000000
+      internalID: -6853724540384429188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdcfc66ec0831760800000000000000
+      internalID: 7427421834440592827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce8c48456ff4b080800000000000000
+      internalID: -9172425730577101117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a63eec0a6eb961e0800000000000000
+      internalID: -2204021179928398176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af61868c4ec9d3ff0800000000000000
+      internalID: -54715114029836550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de7b6246a1d54070800000000000000
+      internalID: 8090102817650081492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bcc45707d8b6dd0800000000000000
+      internalID: -2491742454675617002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a22a58169eccc80800000000000000
+      internalID: -8301003408087569891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c9623017c5ce110800000000000000
+      internalID: 1291508833602411590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473b2fa9b0df4ae40800000000000000
+      internalID: 5666932457424991092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381202a133795ca30800000000000000
+      internalID: 4234957270349259139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d0a2ddb9787c540800000000000000
+      internalID: 5028136612482649484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 290
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3f53a533a2fdfe0800000000000000
+      internalID: -1162163778793114628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 290
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292956a22bf54f510800000000000000
+      internalID: 1581994587934003858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 290
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bf222fbd7d89120800000000000000
+      internalID: 2420922139371830168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 290
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195fa7df5ce397fd0800000000000000
+      internalID: -2343773110987459183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 290
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e51cf09544e84c30800000000000000
+      internalID: 4343972828035159526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 290
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda82d2dee033ef20800000000000000
+      internalID: 3450655541793295071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 290
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b86dcfa46e2aae0800000000000000
+      internalID: -1539414912863401146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 290
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19950698406885180800000000000000
+      internalID: -9126397290823525999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 290
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4508af77a5af92830800000000000000
+      internalID: 4047041006636007508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 290
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eaf5ed7cd775ef0800000000000000
+      internalID: -119488567719252343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 290
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ba48343aeb25400800000000000000
+      internalID: 311520932663700292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0439831fcb563d0800000000000000
+      internalID: -3213955014836666168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 242
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b05f8885645edf0800000000000000
+      internalID: -151637666378216660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 242
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379e6b9fffd980aa0800000000000000
+      internalID: -6194527564716381837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 242
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24100f9dbc31c2e00800000000000000
+      internalID: 1021212981761933634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 242
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb69a602d6a3ba270800000000000000
+      internalID: 8262762181711009471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 242
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3029eac126f27a3a0800000000000000
+      internalID: -6654297825982115325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 242
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7806a8cfe100a70f0800000000000000
+      internalID: -1118581424362200953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 242
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eee95f17e15c6f0800000000000000
+      internalID: -665091895166308808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 242
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b2a03f8e61b7570800000000000000
+      internalID: 8465385114338732891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 242
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3a2d6bdaf909170800000000000000
+      internalID: 8183216091377607648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 242
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e357bd07f2c6c70800000000000000
+      internalID: 8965593119952551428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 242
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631d7a8623554ad80800000000000000
+      internalID: -8240367743188610762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67a92c5b361e0c40800000000000000
+      internalID: 5480342240761587565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 194
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7369bd39efd9dac80800000000000000
+      internalID: -8309812020700801481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 194
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81467374b74f8c520800000000000000
+      internalID: 2722694785058432024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 194
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2f2e16c92ddc7c0800000000000000
+      internalID: -4049348920837213472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a01a35210188850800000000000000
+      internalID: 6379366543068826114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 194
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4710c52fdfc472f50800000000000000
+      internalID: 6856533611271422324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 194
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098978a0e78347540800000000000000
+      internalID: 5004687199909157008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 194
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff90eca32821a71c0800000000000000
+      internalID: -4505268126689129985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 194
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd8a400dbef7e8d0800000000000000
+      internalID: -2817002954189795851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 194
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173337390df8a0020800000000000000
+      internalID: 2308815884970570609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 194
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2707c69804ed1ee10800000000000000
+      internalID: 2225304059662594162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 194
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdd180cf1999fe80800000000000000
+      internalID: -8144310089470059016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dc5b6ab7571c1a0800000000000000
+      internalID: -6791017589159637699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce2ad3ce694662f0800000000000000
+      internalID: -980015128825418048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34674dd4559d84a60800000000000000
+      internalID: 7658610126744745539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503f1a40f01410210800000000000000
+      internalID: 1297389700417450757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0293b95594a63c0800000000000000
+      internalID: -4365596256757014357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221cccf9db087e070800000000000000
+      internalID: 8135612803786260770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67574726c470106d0800000000000000
+      internalID: -3026129449965554314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a26b126025f9dd90800000000000000
+      internalID: -7072352220374932830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5effd92e65f042c0800000000000000
+      internalID: -4449286578344296867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ced2c3279ecb920800000000000000
+      internalID: 3007535328021834874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfa809878fef6880800000000000000
+      internalID: -8615404196737798217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 146
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66544987001c0230800000000000000
+      internalID: 3606275026170697326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3057aeb52a1899770800000000000000
+      internalID: 8618061896276931843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390e1fc07c7e22d40800000000000000
+      internalID: 5558259732230299795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35305f32072de720800000000000000
+      internalID: 2876998627565253949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3ccfea4d79263a0800000000000000
+      internalID: -6673604758084992061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1add27f5aa2edcd0800000000000000
+      internalID: -2531539048230692321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b502ff057d8cbdea0800000000000000
+      internalID: -5846858864108036005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7765a78c742344c0800000000000000
+      internalID: -4304556701565753474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d34337216dc2e650800000000000000
+      internalID: 6260792249151603668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449c2d61f7bb02d90800000000000000
+      internalID: -7124488455981971132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6d2aa4119c5c6e0800000000000000
+      internalID: -1817825798470314302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd533284f8be3a910800000000000000
+      internalID: 1847579272775153116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92dde13d3fa95260800000000000000
+      internalID: 7086888166009721501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4a9b67bcdcd3c90800000000000000
+      internalID: -7188363156459510611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 50
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159ffd794c4a29430800000000000000
+      internalID: 3788271400840591697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 50
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230b4cfa855b15d00800000000000000
+      internalID: 959747588117278770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 50
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0639dbcf1824920800000000000000
+      internalID: 2973081626530242732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 50
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a3e2ca2cefbb00800000000000000
+      internalID: 846654923371422040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 50
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d54a62aa3cb13b0800000000000000
+      internalID: -5540619780989100745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 50
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b13dfcb035bd900800000000000000
+      internalID: 710252676437449572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 50
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6fdf42a2f0c8120800000000000000
+      internalID: 2417323773674780391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 50
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef0c8c88f8efe3a0800000000000000
+      internalID: -6633827571885928472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 50
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3add874ce6b2b6080800000000000000
+      internalID: -9193206459604083293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 50
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3b653db6ebcc870800000000000000
+      internalID: 8704541550116778978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 50
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065b37aae98aacc80800000000000000
+      internalID: -8301637563686079136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20df4b19c2a071b10800000000000000
+      internalID: 1952040150027795714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6525a550209fea0800000000000000
+      internalID: -5838633219895699766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287f3ba69a0473300800000000000000
+      internalID: 231725002216699778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce0c2ffcd6c05640800000000000000
+      internalID: 5066768233267990223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee7d8181a088830800000000000000
+      internalID: 4073516961568911065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb12caa6aa81aaaa0800000000000000
+      internalID: -6149075221007818309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3912836e573b7dc30800000000000000
+      internalID: 4384170081223451027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_91
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6740812b503fc1060800000000000000
+      internalID: 6925677532777284726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c60a5acf93174a00800000000000000
+      internalID: 740582240741361344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_93
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aa2ecdc0a264b50800000000000000
+      internalID: 6576990540555004469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d977976e225abd0800000000000000
+      internalID: -2619649234970370778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateranimate2_95
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009ccb2ec0c99aa20800000000000000
+      internalID: 3074159799814637824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
